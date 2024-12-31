@@ -35,5 +35,5 @@ Execute the binary with the following command (example):
 cd build/matching
 ./GPESCO.out -d ../../dataset/dblp/data_graph/dblp.graph  -q ../../dataset/dblp/query_graph -crq JointEnum -drq IEEnum -ql ../../dataset/qlist.txt -time_limit 600 -k 5
 ```
-Dataset: DBLP, CRQ: JointEnum, DRQ: IEEnum, Time Limit: 600 seconds
+Dataset: DBLP, CRQ: JointEnum, DRQ: IEEnum, Time Limit: 600 seconds, k = 5
 
